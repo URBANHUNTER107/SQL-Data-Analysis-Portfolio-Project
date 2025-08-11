@@ -1,5 +1,7 @@
 # SQL-Data-Analysis-Portfolio-Project
 Credit Card Spending Habits in India – SQL Data Analysis
+
+Dataset Link:- https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 📌 Overview
 
 Analyzed the Credit Card Spending Habits in India dataset from Kaggle using 10 SQL queries to uncover spending trends, customer behavior, and category insights.
